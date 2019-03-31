@@ -44,7 +44,7 @@ Read more about these methods [here](https://www.npmjs.com/)
     Function takes the userInput (command) and the userQuery(artist), and returns the next concert time and date for that artist, as well as location and city.
 
     ![image of concertThis](/images/concertThis.png)
-    ![image of concert-this](/images/concertthis1.png)
+    ![image of concert-this](/images/concertThis1.png)
 2. spotify-this
 
      *<command, song name>*
@@ -52,7 +52,7 @@ Read more about these methods [here](https://www.npmjs.com/)
     Function takes the userInput (command) and the userQuery(song), and returns the artist, full track name, a preview link and the album.
 
     ![image of spotifyThis](/images/spotifyThis.png)
-    ![image of spotify-this](/images/spotifythis1.png)
+    ![image of spotify-this](/images/spotifyThis1.png)
 
 
 3. movie-this
@@ -60,7 +60,7 @@ Read more about these methods [here](https://www.npmjs.com/)
 
     Function takes the userInput (command) and the userQuery(song), and returns title, cast, release date, ratings, country of origin, original language and synopsis.
     ![image of movieThis](/images/movieThis.png)
-    ![image of movie-this](/images/moviethis1.png)
+    ![image of movie-this](/images/movieThis1.png)
 
 
 4. do-this
